@@ -1,0 +1,13 @@
+2020-01-02 23:56:08,688 DEBUG api.automation.rest.OauthImplementation (accessCode:24) -Calling code generation method
+2020-01-02 23:56:10,926 DEBUG api.automation.rest.OauthImplementation (accessCode:32) -Get accessToken request posted
+2020-01-03 12:28:02,577 DEBUG api.automation.rest.OauthImplementation (accessCode:24) -Calling code generation method
+2020-01-03 12:28:09,381 DEBUG api.automation.rest.OauthImplementation (accessCode:32) -Get accessToken request posted
+2020-01-03 21:40:59,263 DEBUG api.automation.rest.OauthImplementation (accessCode:24) -Calling code generation method4%2FvAGIfwP6qZYhhC1nYMYwAkChuep9saNyvQv1Bg-jVtDBq3kiAo4DWd-hq96B-qcualQlDCWng1qWMPGdZsAHcUc
+2020-01-03 21:41:02,101 DEBUG api.automation.rest.OauthImplementation (accessCode:32) -Get accessToken request posted and resonse{
+  "access_token": "ya29.ImC4BxMk1KFt_ic8sWgu1m6HfUhfrCYTeBCsyLMIyFxie44iTFKM0mPgxBlzJ_WEyc5YfD8LrMmUMFw7N7z7v2Ej1CkN0NLSQxzEZKFiGk8gt-kgUf8Ql3mZciDkVsKEnCU",
+  "expires_in": 3594,
+  "scope": "openid https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ3NDU2YjgwNjllNDM2NWU1MTdjYTVlMjk3NTdkMWE5ZWZhNTY3YmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI2OTIxODMxMDMxMDctcDBtN2VudDJoazdzdWd1djR2cTIyaGpjZmhjcjQzcGouYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDI3Mjk5MzA0OTgwOTI4OTM1MTkiLCJlbWFpbCI6ImF1dG9tYXRpb25mb3JxYUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InFzNTR3aGpwN2szMVVSZm92RU1XSEEiLCJpYXQiOjE1NzgwNzMyNjEsImV4cCI6MTU3ODA3Njg2MX0.omeqOKZ5qlXYWn3tBDYy0wPZn91-Yw_vh7vPJgdWMesls_lUmSKzD1bOdARa4ertuX-Q5Ij7gh7lqqCtSC4ohcFewZTOHIQN664CV8liXT8jhec2P9YB7uKnwTqYbBoxvFJoYQELVoZs__sgLjBGnNsurlCW3Zxuxm46ExCxtRXpF1zOWx20F_mdYeyVGdIlgYwkhnkAMgkzQwZKgt3UzQEAbUY2Rb_5xBv-UtkCnlTm0K8UHtOonADZfx_mGvNu_k26vN7dB8k3t0wAVvhhSdyS1rl-HIz19Kx7ecipNTODaSxPC4TGcwidxxo9ty3U9Qmgg0eR1-Qmr7lCJ_72pQ"
+}
+2020-01-03 21:41:02,637 INFO  api.automation.rest.OauthImplementation (accessCode:36) -accessToken: ya29.ImC4BxMk1KFt_ic8sWgu1m6HfUhfrCYTeBCsyLMIyFxie44iTFKM0mPgxBlzJ_WEyc5YfD8LrMmUMFw7N7z7v2Ej1CkN0NLSQxzEZKFiGk8gt-kgUf8Ql3mZciDkVsKEnCU

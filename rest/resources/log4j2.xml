@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Appenders>
+		<RollingFile name="RollingFile" fileName="logs/test.log" filePattern="logs/test-%d{yyyy-MM-dd}.-%i.log">
+			<PatternLayout>
+				<pattern>%d %-5p %class{36} (%M:%L) -%msg%xEx%n</pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="2 KB" />
+			</Policies>
+			<DefaultRolloverStrategy max="5000" />
+		</RollingFile>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d %-5p %class{36} (%M:%L) -%msg%xEx%n" />
+		</Console>
+		
+	</Appenders>
+	<Loggers>
+		<root level="trace">
+			<appender-ref ref="RollingFile" />
+			<appender-ref ref="Console" />
+		</root>
+	</Loggers>
+</Configuration>

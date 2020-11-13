@@ -1,0 +1,4 @@
+2020-01-03 21:41:03,842 INFO  api.automation.rest.OauthImplementation (accessCode:41) -Posted requested to receive response
+2020-01-03 21:41:03,858 INFO  api.automation.rest.OauthImplementation (accessCode:51) -actual List is : [Selenium Webdriver Java, Cypress, Protractor]
+2020-01-03 21:41:03,858 INFO  api.automation.rest.OauthImplementation (accessCode:52) -Expected List is : [Selenium Webdriver Java, Cypress, Protractor]
+2020-01-03 21:41:03,858 DEBUG api.automation.rest.OauthImplementation (accessCode:54) - Both are Equal assert 

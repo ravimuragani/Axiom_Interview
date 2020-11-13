@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6522" started-at="2020-11-13T10:00:00Z" finished-at="2020-11-13T10:00:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6522" started-at="2020-11-13T10:00:00Z" finished-at="2020-11-13T10:00:07Z">
+      <class name="api.automation.rest.ApiAutomation">
+        <test-method status="PASS" signature="Scenario_1()[pri:0, instance:api.automation.rest.ApiAutomation@13deb50e]" name="Scenario_1" duration-ms="4306" started-at="2020-11-13T10:00:00Z" finished-at="2020-11-13T10:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method status="PASS" signature="Scenario_2()[pri:0, instance:api.automation.rest.ApiAutomation@13deb50e]" name="Scenario_2" duration-ms="2157" started-at="2020-11-13T10:00:04Z" finished-at="2020-11-13T10:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_2 -->
+      </class> <!-- api.automation.rest.ApiAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
